@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   mrcli    1698       1 ?        11:37:39 /usr/bin/mintty
+   mrcli    1699    1698 pty0     11:37:39 /usr/bin/bash
+   mrcli    1792    1699 pty0     11:58:31 /usr/bin/ps
